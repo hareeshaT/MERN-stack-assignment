@@ -1,0 +1,14 @@
+.postItem-container{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid dodgerblue; */
+    margin:20px;
+    padding:20px;
+    justify-content:center;
+}
+.postheaders{
+    font-family: roboto;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+@media screen and (min-width:768px){
+    .blog-list-container{
+        padding: 55px;
+        background-color:lavender;
+        background-size:cover;
+        min-height:100vh;
+    }
+}
+.posts{
+    text-align: center;
+    font-size:35px;
+}
+.nodata{
+    text-align: center;
+    margin-top: 10%;
+}
+.loader-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 10%;
+}
